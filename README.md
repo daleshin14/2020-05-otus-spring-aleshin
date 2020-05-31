@@ -1,2 +1,6 @@
 # 2020-05-otus-spring-aleshin
-Spring training
+
+# Репозиторий курса OTUS: "Разработчик Spring Framework"
+
+# Алёшин Денис
+
