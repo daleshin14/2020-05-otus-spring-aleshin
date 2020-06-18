@@ -1,0 +1,4 @@
+question:
+  filename: questions.csv
+  numberOfCorrectAnswers: 4
+

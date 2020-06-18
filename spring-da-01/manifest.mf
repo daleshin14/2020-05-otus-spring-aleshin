@@ -1,0 +1,2 @@
+main-class: src.main.java.ru.daleshin.spring.Main
+class-path: target/
