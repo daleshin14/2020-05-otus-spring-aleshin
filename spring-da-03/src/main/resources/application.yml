@@ -1,0 +1,6 @@
+question:
+  filenameEn: questions_en.csv
+  filenameRu: questions_ru.csv
+  numberOfCorrectAnswers: 4
+  locale: ru
+
